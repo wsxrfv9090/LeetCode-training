@@ -1,5 +1,3 @@
 ﻿  main.c
-  notRelatedFuncitons.c
-  正在生成代码...
 D:\ImportanFiles\Coding Related\Repositories\LeetCode Quizes\Problem No.5\Problem No.5\main.c(69): warning C4715: “binary_sorted_leftmost”: 不是所有的控件路径都返回值
   Problem No.5.vcxproj -> D:\ImportanFiles\Coding Related\Repositories\LeetCode Quizes\Problem No.5\x64\Debug\Problem No.5.exe
