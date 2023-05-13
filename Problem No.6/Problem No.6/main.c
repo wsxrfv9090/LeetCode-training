@@ -6,7 +6,7 @@
 #include "sortAlgorithms.h"
 #include "newFunction.h"
 
-#define TEST_TIMES 100
+#define TEST_TIMES 500000
 #define ARRAY_SIZE 100
 #define ARRAY_RANGE_START 1
 

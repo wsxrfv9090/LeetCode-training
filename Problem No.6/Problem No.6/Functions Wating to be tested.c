@@ -2,7 +2,10 @@
 
 void swap(int* a, int* b)
 {
-	*a ^= *b ^= *a ^= *b;
+	//*a ^= *b ^= *a ^= *b;
+	int k = a;
+	a = b;
+	b = k;
 }
 
 void bubble_sort(int arr[], int sz)
@@ -24,7 +27,7 @@ void insertion_sort(int arr[], int sz)
 		return;
 	for (int i = 1; i < sz; i++)
 	{
-		for (int j = i - 1; j >= 0; j--)
+		for (int j = i-1; j >= 0; j--)
 		{
 			arr[j] < arr[j + 1] ? arr[j] == arr[j] : swap(&arr[j], &arr[j + 1]);
 		}

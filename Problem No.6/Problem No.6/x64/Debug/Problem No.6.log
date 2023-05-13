@@ -1,2 +1,4 @@
 ﻿  Functions Wating to be tested.c
+D:\ImportanFiles\Coding Related\Repositories\LeetCode Quizes\Problem No.6\Problem No.6\Functions Wating to be tested.c(8,7): warning C4047: “=”:“int *”与“int”的间接级别不同
+D:\ImportanFiles\Coding Related\Repositories\LeetCode Quizes\Problem No.6\Problem No.6\Functions Wating to be tested.c(6,6): warning C4047: “初始化”:“int”与“int *”的间接级别不同
   Problem No.6.vcxproj -> D:\ImportanFiles\Coding Related\Repositories\LeetCode Quizes\Problem No.6\x64\Debug\Problem No.6.exe
