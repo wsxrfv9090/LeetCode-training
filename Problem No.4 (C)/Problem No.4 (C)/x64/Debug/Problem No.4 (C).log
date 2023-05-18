@@ -1,0 +1,5 @@
+﻿  main.c
+  Not_Related_Functions.c
+  正在生成代码...
+D:\ImportanFiles\Coding Related\Repositories\LeetCode Quizes\Problem No.4 (C)\Problem No.4 (C)\main.c(69): warning C4715: “binary_sorted_leftmost”: 不是所有的控件路径都返回值
+  Problem No.4 (C).vcxproj -> D:\ImportanFiles\Coding Related\Repositories\LeetCode Quizes\Problem No.4 (C)\x64\Debug\Problem No.4 (C).exe
