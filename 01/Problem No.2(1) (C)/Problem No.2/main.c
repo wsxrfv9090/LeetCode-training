@@ -53,9 +53,7 @@ int main()
 	generate_rand100(arr, sz);
 	selection_sort(arr, sz);
 	for (int i = 0; i < 100; i++)
-	{
 		printf("%d\n", arr[i]);
-	}
 	return 0;
 }
 
